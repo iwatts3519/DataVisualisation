@@ -1,4 +1,4 @@
-# DataVisualisation
+# Data Visualisation
 A selection of different examples of data visualisation including:
 * Introductory Numpy and Pandas Exercises
 * Web Scraping
