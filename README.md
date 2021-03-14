@@ -5,3 +5,4 @@ A selection of different examples of data visualisation including:
 * Various Plotting libraries including Matpllotlib and Seaborn
 * Accessing APIs to get data
 * Data PreProcessing
+* Classification Techniques and ways of visualising them
